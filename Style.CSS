@@ -54,6 +54,15 @@ ul.topnav li.right {float: right;}
 	margin-left: 50px;
 }
 
+.head-center {
+	font-family: "Arial";
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 50px;
+}
+
 .text {
 	font-family: "Arial";
 	color: white;
