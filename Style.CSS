@@ -1,4 +1,5 @@
 /* ---------- Generic ------------ */
+
 font-family{
 	"Arial", "Helvetica"
 }
@@ -61,6 +62,7 @@ ul.topnav li.right {float: right;}
 	font-weight: bold;
 	text-align: center;
 	margin-left: 50px;
+	text-decoration: underline;
 }
 
 .text {
