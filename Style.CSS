@@ -90,3 +90,12 @@ ul.topnav li.right {float: right;}
 	margin-left: 50px;
 	margin-right: 250px;
 }
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60%;
+  width: 60%;
+  padding: 5px 5px 5px 5px;
+  border: 2px solid grey;
+}
