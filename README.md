@@ -6,6 +6,8 @@ https://discord.gg/M7zDF8K
 
 # StakeHolders
 - Jed - Dev
+- William - Dev
 
 # Personal Profiles
 - Jed Wotherspoon, Hastings, Level 5 Tertiary IT, IT Hardware & Retail
+- William Anderson, Napier, Cert of IT Essentials (Level 4), Retail
