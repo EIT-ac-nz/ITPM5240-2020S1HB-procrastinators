@@ -99,3 +99,13 @@ ul.topnav li.right {float: right;}
   padding: 5px 5px 5px 5px;
   border: 2px solid grey;
 }
+.image-center-small {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40%;
+  width: 40%;
+  padding: 5px 5px 5px 5px;
+  border: 2px solid grey;
+}
+
