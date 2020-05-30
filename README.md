@@ -32,12 +32,34 @@ $2,200,000 RUB ($50,536 NZD)
 
 ## Risks & Challenges
 - The short time-frame could cripple the project
-- 
+- The project budget could prove to be too tight
+- Adapting the linux architecture to provide further security could prove very challenging
 
+## Timeline
+- Pre-production
+- Design & planning
+- User interface designing
+- Linux code adaptation
+- Adding extra security features
+- Preparing the install package with programs & features
+- Final QA testing
+- Delivery
 
+## Requirements
+A stable operating system with a variety of in built security features and protocols, including a mild array of extra pen-testing and securty programs
 
+## Assigned Role(s)
+- Jed - Planning/Dev
+- Will - Dev/QA
 
-## Quality Assurance & Testing Method(s)
+## Quality Assurance & Testing Aspects
+- Checking stability of build
+- Installation process
+- Program priveleges
+- Internet functunality
+- Pre-installed programs are functioning
+- Security testing
+
 
 
 
