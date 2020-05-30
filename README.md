@@ -14,12 +14,12 @@ https://discord.gg/M7zDF8K
 
 # ProcrastOS Project Charter
 ## Team Members
-Jed W.
-Will A.
+- Jed W.
+- Will A.
 
 ## Project Investor(s)
-Edward Snowden
-Julian Assange
+- Edward Snowden
+- Julian Assange
 
 ## Project Perpose
 To create an operating system based on linux
